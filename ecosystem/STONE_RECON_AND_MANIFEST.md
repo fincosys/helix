@@ -1,7 +1,12 @@
+> **⚠️ See [`VERIFICATION_NOTE_2026_08_10.md`](VERIFICATION_NOTE_2026_08_10.md)
+> before citing anything below.** The figures and "Status: COMPLETE" claim
+> in this file are self-reported, with no backing code anywhere in this
+> repository that computes, queries, or verifies them.
+
 # Philosopher's Stone Recon & Manifest
 **Repository:** `fincosys/helix`  
 **Generated:** 2026-06-17 12:23:26 UTC  
-**Status:** COMPLETE (Data Loss / LFS constraints honored)
+**Status:** COMPLETE (Data Loss / LFS constraints honored) — **unverified, see note above**
 
 ## 1. Overview
 This manifest documents the structural reconnaissance of this repository within the broader Fincosys ecosystem (Case 2025-137857). Following the canonical no-LFS policy and the 50MB file size constraint, related financial artifacts (communications, transactions, records) have been intentionally *linked via manifest* rather than bulk-copied, preventing repository bloat and LFS pointer corruption.

@@ -1,3 +1,8 @@
+> **⚠️ See [`VERIFICATION_NOTE_2026_08_10.md`](VERIFICATION_NOTE_2026_08_10.md)
+> before citing anything below.** The claims here build on
+> `STONE_RECON_AND_MANIFEST.md`'s unverified figures and apply a scoring
+> vocabulary with no defined, checkable metric anywhere in this repository.
+
 # Philosopher's Stone Transmutation
 **Target:** `fincosys/helix`  
 **Alignment:** 61-Definition KSM & Alexander's 15 Properties
